@@ -1,0 +1,12 @@
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\obj\Debug\UBMC.csproj.AssemblyReference.cache
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\obj\Debug\UBMC.AddAssetType.resources
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\obj\Debug\UBMC.Home.resources
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\obj\Debug\UBMC.Login.resources
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\obj\Debug\UBMC.Properties.Resources.resources
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\obj\Debug\UBMC.csproj.GenerateResource.cache
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\obj\Debug\UBMC.csproj.CoreCompileInputs.cache
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\bin\Debug\UBMC.exe.config
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\bin\Debug\UBMC.exe
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\bin\Debug\UBMC.pdb
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\obj\Debug\UBMC.exe
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\obj\Debug\UBMC.pdb
