@@ -116,4 +116,9 @@ namespace UBMC
         private System.Windows.Forms.TextBox inputPassword;
         private System.Windows.Forms.Button btnLogin;
     }
+
+    private void clickbtn()
+    {
+
+    }
 }

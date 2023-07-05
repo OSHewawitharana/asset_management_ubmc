@@ -10,3 +10,5 @@ C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\bin\Debug\UBMC.exe
 C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\bin\Debug\UBMC.pdb
 C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\obj\Debug\UBMC.exe
 C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\obj\Debug\UBMC.pdb
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\obj\Debug\UBMC.AddInventory.resources
+C:\Users\oshew\OneDrive\Desktop\UBMC\UBMC\UBMC\obj\Debug\UBMC.AddStorageLocation.resources
